@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74356036-77da-4d0c-8a65-cfbfde53aee2" name="Changes" comment="" />
+    <list default="true" id="74356036-77da-4d0c-8a65-cfbfde53aee2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/python-classes/3-square.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +101,7 @@
       <updated>1765293885659</updated>
       <workItem from="1765293886971" duration="2219000" />
       <workItem from="1765312628939" duration="15000" />
-      <workItem from="1765369265283" duration="2460000" />
+      <workItem from="1765369265283" duration="3091000" />
     </task>
     <servers />
   </component>
