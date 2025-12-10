@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74356036-77da-4d0c-8a65-cfbfde53aee2" name="Changes" comment="" />
+    <list default="true" id="74356036-77da-4d0c-8a65-cfbfde53aee2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/python-classes/1-square.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,12 +30,12 @@
     &quot;assignee&quot;: &quot;Fidan6557&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Fidan6557/holbertonschool-python-coding&quot;,
-    &quot;accountId&quot;: &quot;518d6845-2756-46e2-8f9f-5847c0f8c11d&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Fidan6557/holbertonschool-python-coding.git",
+    "accountId": "518d6845-2756-46e2-8f9f-5847c0f8c11d"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -44,6 +48,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -94,7 +99,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765293885659</updated>
-      <workItem from="1765293886971" duration="1642000" />
+      <workItem from="1765293886971" duration="2219000" />
+      <workItem from="1765312628939" duration="15000" />
+      <workItem from="1765369265283" duration="1837000" />
     </task>
     <servers />
   </component>
